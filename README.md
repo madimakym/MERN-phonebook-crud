@@ -1,8 +1,8 @@
 # PhoneBook: web application that provides a phonebook
 
-## Screen:
-<img src="/screen-1.png" width="300" height="100%">
-<img src="/screen-2.png" width="300" height="100%">
+## Screens:
+<img src="/screen-1.png" width="600" height="100%">
+<img src="/screen-2.png" width="600" height="100%">
 
 ## Setup Frontend
 
